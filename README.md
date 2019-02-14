@@ -1,4 +1,4 @@
-# JavaScriptAlgorithms
+# JavascriptAlgorithms
 
 A repository dedicated to solutions based around common interviewing problems. Our goal is to implement different solutions for algorithm and data structure based problems. 
 

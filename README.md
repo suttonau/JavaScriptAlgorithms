@@ -13,9 +13,8 @@ Read our contributing guide to learn about our development process, how to propo
  - Install all dependencies
 
 npm install
-Run ESLint
 
- - Run the application to check code quality.
+ - Run ESLint. Run the application to check code quality.
 
 npm run lint
 

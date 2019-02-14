@@ -1,6 +1,6 @@
-//problem from ProjectEuler exercise
-//function will find all even fibonacci numbers and return the sum of all even numbers of the sequence.
-//test limit of 10,000
+//Problem based off ProjectEuler exercise
+//Function will find all even fibonacci numbers and return the sum of all even numbers of the sequence.
+//Test limit of 10,000
 
 console.time("sean");
 function fibonacciEvenSum(limit) {

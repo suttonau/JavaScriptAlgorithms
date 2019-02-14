@@ -1,4 +1,4 @@
-# JavaScriptAlgorithms
+# JavascriptAlgorithms
 
 A repository dedicated to solutions based around common interviewing problems. Our goal is to implement different solutions for algorithm and data structure based problems. 
 
@@ -6,16 +6,15 @@ A repository dedicated to solutions based around common interviewing problems. O
 
 The primary purpose of this repository foster educated learning around Javascript interview questions. Making the solutions faster and more efficient is the main goal of this repository. We are grateful for any contributions to the code that will provide new questions, and more efficient solutions. Read below to learn how you help improve this repository while following a few fidelines.
 
-Contributing Guide
-Read our contributing guide to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React.
+### Contributing Guide
+Read our contributing guide to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes.
 
 
  - Install all dependencies
 
 npm install
-Run ESLint
 
- - Run the application to check code quality.
+ - Run ESLint. Run the application to check code quality.
 
 npm run lint
 

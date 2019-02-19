@@ -2,6 +2,8 @@
 
 A repository dedicated to solutions based around common interviewing problems. Our goal is to implement different solutions for algorithm and data structure based problems. 
 
+## Table of Contents
+
 ## Contribution Guidelines
 
 The primary purpose of this repository foster educated learning around Javascript interview questions. Making the solutions faster and more efficient is the main goal of this repository. We are grateful for any contributions to the code that will provide new questions, and more efficient solutions. Read below to learn how you help improve this repository while following a few fidelines.
@@ -26,7 +28,7 @@ npm test
 
 ex. npm test -- 'LinkedList'
 
-Playground
+Playground //adding this in
 
 You may play with data-structures and algorithms in ./src/playground/playground.js file and write tests for it in ./src/playground/__test__/playground.test.js.
 
